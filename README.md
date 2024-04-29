@@ -7,9 +7,9 @@
     * conda create -n chat-with-webs python=3.11 -y
     * conda activate chat-with-webs
     * pip install -r requirement.txt
-- Create a file with name '.env' in multi-pdf-reader folder
+- Create a file with name '.env' in chat-with-webs folder
 - Add below line in .env file
-    * HUGGINGFACEHUB_API_TOKEN="Supply your secret token here"
+    * OPENAI_API_KEY="Supply your secret token here"
 - Run Multiple PDF File Reader with below command
     * streamlit run app.py --server.port 8080
 - Open http://localhost:8080/ on your favorite browser
