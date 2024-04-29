@@ -1,5 +1,3 @@
-# chat-with-webs
-Chat with any website using Python and Langchain 
 ## Step to run Chat With Webs application
 - Clone chat-with-webs in your local machine
 - Download and install Anaconda from https://www.anaconda.com/download
